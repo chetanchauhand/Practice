@@ -9,7 +9,7 @@ public class Fact {
         return fact_n1;
     }
     public static void main(String[] args) {
-        int n = 5;
+        int n = 10;
         int ans = cfactorial(n);
         System.out.println(ans);
     }
