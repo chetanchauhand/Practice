@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class Prin {
     public static int calcPow(int x,int y){
